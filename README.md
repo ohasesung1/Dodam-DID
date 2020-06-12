@@ -1,3 +1,5 @@
+<img src="https://notion-emojis.s3-us-west-2.amazonaws.com/v0/svg-twitter/1f4e2.svg" width=30 height=30/>
+
 ### [도담도담](https://www.notion.so/b7426b8ea37d4f3897aa5dcb85b10c9d) 서브 프로젝트 입니다. 교내에 각반 당 하나씩 배치 되어 학생들이 공지사항을 확인 할 수 있도록 제공 해주는 서비스 입니다.
 
 팀: **B1ND**
